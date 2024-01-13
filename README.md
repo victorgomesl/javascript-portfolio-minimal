@@ -4,7 +4,7 @@ A portfolio template built with HTML, CSS, and JavaScript.
 
 ## Preview
 
-[![imgur](https://i.imgur.com/D1ZgiOh.mp4)]
+[![imgur](https://imgur.com/D1ZgiOh)]
 
 [Live Demo](https://vercellink)
 
